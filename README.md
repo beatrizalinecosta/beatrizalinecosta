@@ -3,8 +3,8 @@
 I am a Front End Developer, and I'm also studying UX Design.
 
 <a href="#"><img height="32" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/beatriz-aline-costa/"><img height="32" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://www.behance.net/beatrizalinecosta"><img height="32" alt="Static Badge" src="https://img.shields.io/badge/Behance-violet?style=flat&logo=behance&logoColor=white&logoSize=auto&labelColor=%231769FF&color=%231769FF&cacheSeconds=3600&link=https%3A%2F%2Fwww.behance.net%2Fbeatrizalinecosta">
+<a href="https://www.linkedin.com/in/beatriz-aline-costa/" target="_blank"><img height="32" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://www.behance.net/beatrizalinecosta" target="_blank"><img height="32" alt="Static Badge" src="https://img.shields.io/badge/Behance-violet?style=flat&logo=behance&logoColor=white&logoSize=auto&labelColor=%231769FF&color=%231769FF&cacheSeconds=3600&link=https%3A%2F%2Fwww.behance.net%2Fbeatrizalinecosta">
 </a>
 
 ---
